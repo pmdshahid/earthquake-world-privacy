@@ -1,1 +1,1 @@
-# earthquake-world-privacy
+# Earthquake Alerts Live Tracker Privacy
